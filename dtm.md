@@ -3,7 +3,7 @@ layout: page
 title: DTM
 ---
 
- - SoundCloud: <a src="https://soundcloud.com/akashi_akatsuki">AkashiA</a>
+ - SoundCloud: <a href="https://soundcloud.com/akashi_akatsuki">AkashiA</a>
  - DAW: Studio One 3
  - Genre: Drun'n'Bass, Future
 
