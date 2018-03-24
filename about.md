@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img width="200px" src="https://pbs.twimg.com/profile_images/857892900301975552/tgN1V6UU_400x400.jpg">
+<img width="200px" src="https://pbs.twimg.com/profile_images/937715357921394689/-nrUsBPb_400x400.jpg">
 
 ## Who
  - 函館の某未来な大学に通っている大学生です。
