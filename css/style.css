@@ -1,9 +1,13 @@
 ---
 ---
 
-.index-image {
-    width: 50%;
-    height: 50%;
+body {
+    background-image: url("../images/top.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #ffffff;
 }
 
 a:link { color: #cccccc; }
