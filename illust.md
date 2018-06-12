@@ -7,4 +7,5 @@ title: Illust
  - Nijie: <a href="https://nijie.info/members.php?id=396650">AkashiA</a>
  - Software: Clip Stuio Paint
 
- - <img src="/images/index.png">
+ - <img src="/images/illust1.png">
+ - <img src="/images/illust2.png">
