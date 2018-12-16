@@ -4,9 +4,9 @@ title: Programing
 ---
 
  - GitHub: <a href="https://github.com/AkashiAkatsuki">AkashiAkatsuki</a>
- - Languages: Java, Ruby, Unity C#
+ - Languages: Java, Ruby, Unity C#, Python, Prolog
 
-# Products
+# Projects
 
 ## <a href="https://github.com/AkashiAkatsuki/Gallery-FUN">Gallery-FUN</a>
    <img src="/images/gallery-fun.png">
@@ -27,3 +27,12 @@ title: Programing
  - 自身のTLの速度に応じてツイート頻度が変わる
  - TLの単語を勝手に検索して文章生成の幅を広げたりする
  - 単語評価機能を調整中
+
+- - -
+
+## <a href="https://github.com/AkashiAkatsuki/ChordLogic">Chord-Prolog</a>
+   <img src="/images/chord-prolog.png">
+ - <a href="https://chord-prolog.herokuapp.com/">リンク</a>
+ - 音楽理論・代理コード推論機
+ - 老舗言語Prologで作成
+ 
