@@ -1,0 +1,32 @@
+---
+layout: page
+title: UnityChanCartFight
+---
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="TemplateData/favicon.ico">
+  <script src="TemplateData/UnityProgress.js"></script>  
+  <script src="Build/UnityLoader.js"></script>
+  <script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/UCCF.json", {onProgress: UnityProgress});
+  </script>
+</head>
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 960px; height: 540px"></div>
+  <div class="footer">
+    <div class="webgl-logo"></div>
+    <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)">FullScreen</div>
+  </div>
+</div>
+<div>
+  左クリック: 射撃+反動で後退<br>
+  右クリック: リロード<br>
+  マウス移動: 旋回<br>
+  P: ポーズ<br>
+  敵を落とせば1点、落とされたら-1点<br>
+  タイトル矢印ボタンで武器変更<br>
+  <br>
+  © Unity Technologies Japan/UCL
+</div>
