@@ -4,7 +4,7 @@ title: Games
 ---
 
 ## <a href="/games/cartfight">Unity-Chan Cart Fight</a>
-<img src="/images/justsayfox.png">
+<img src="/images/uccf.png">
  - ユニティちゃんたちがショッピングカートに搭乗してハチャメチャガンアクション！
  - 大学の講義で友人と制作
  - Unity製
