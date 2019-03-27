@@ -1,0 +1,28 @@
+---
+layout: page
+title: The Tencatles
+---
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="TemplateData/favicon.ico">
+  <script src="TemplateData/UnityProgress.js"></script>  
+  <script src="Build/UnityLoader.js"></script>
+  <script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Tentacles.json", {onProgress: UnityProgress});
+  </script>
+</head>
+
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 960px; height: 540px"></div>
+  <div class="footer">
+    <div class="webgl-logo"></div>
+    <a class="fullscreen" onclick="gameInstance.SetFullscreen(1)">FullScreen</a>
+  </div>
+</div>
+<div>
+  Left/Right: 移動(地面にいる時加速)<br>
+  Up: ジャンプ(２段, 長押しで大ジャンプ)<br>
+  動作が不安定な時は<a href="https://github.com/AkashiAkatsuki/AkashiAkatsuki.github.io/releases/tag/Tentacles">ダウンロード版</a>をどうぞ
+</div>

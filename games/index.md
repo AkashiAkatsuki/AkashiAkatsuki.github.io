@@ -3,6 +3,17 @@ layout: page
 title: Games
 ---
 
+各ゲームのダウンロード版は<a href="https://github.com/AkashiAkatsuki/AkashiAkatsuki.github.io/releases">こちら</a><br>
+WebGL版は動作が環境に左右されるのでダウンロード版がおすすめ
+
+## <a href="/games/tentacles">The Tentacles</a>
+<img src="/images/tentacles.png">
+ - ちょっぴりえっちな2Dアクション(R-15)
+ - 開発期間1週間
+ - Unity製
+ - 作画コストを理由に武器すら持たせてもらえなかったイエリちゃんを操作して触手から逃げよう
+ - 出口は無いのでたくさん走ったらあとは触手に沈んでください
+
 ## <a href="/games/cartfight">Unity-Chan Cart Fight</a>
 <img src="/images/uccf.png">
  - ユニティちゃんたちがショッピングカートに搭乗してハチャメチャガンアクション！
