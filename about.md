@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-<img width="200px" src="https://pbs.twimg.com/profile_images/982514303705100288/VfNdbh_4_400x400.jpg">
+<div style="display: inline-block;">
+  <img width="320px" src="/images/acacia.png">
+</div>
 
-## Who
- - 公立はこだて未来大学 知能システムコース3年
- - イラスト/音楽制作/ウェブアプリやゲーム開発などをやっています
-
-## Favorite
- - フリーゲーム/Steamゲーム
- - 金平糖
- - へそ
+ - 公立はこだて未来大学 知能システムコース4年
+ - ウェブアプリ制作、ゲーム開発、機械学習など分野が散らかっています
+ - イラスト、DTM、モデリングもやってます
+ - 趣味はdアニメストアをザッピングしながらお絵かきすることです
