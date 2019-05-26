@@ -3,11 +3,25 @@ layout: page
 title: Programing
 ---
 
- - GitHub: <a href="https://github.com/AkashiAkatsuki">AkashiAkatsuki</a>
- - Languages: Java, Ruby, Unity C#, Python, Prolog
+- GitHub: <a href="https://github.com/AkashiAkatsuki">AkashiAkatsuki</a>
+- Languages: Java, Ruby, Unity C#, Python, Prolog
+- Libraries: Rails, PyTorch, TwitterAPI
+- Tools: Emacs, Visual Studio Code, Jupyter
 
 # Projects
+ - ゲーム系制作物は<a href="/games">Games</a>にあります
+ - タイトルリンクでリポジトリへ
 
+## <a href="https://github.com/AkashiAkatsuki/VRMBase">VRMBase</a>
+<img src="/images/vrmbase.jpg">
+- <a href="https://github.com/AkashiAkatsuki/VRMBase/releases">配布ページ</a>
+- Unity + <a href="https://vrm.dev/">UniVRM</a> + <a href="http://www.monobitengine.com/mun/">Monobit Unity Networking</a>
+- VRMを使えるルームマッチング型オンラインゲームのひな型
+- VRM本体の共有機能はついてない
+- デモはMonobitクラウドの無料枠で稼働
+
+---
+   
 ## <a href="https://github.com/AkashiAkatsuki/Gallery-FUN">Gallery-FUN</a>
    <img src="/images/gallery-fun.png">
  - <a href="https://gallery-fun.herokuapp.com/">リンク</a>
